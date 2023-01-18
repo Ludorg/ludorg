@@ -15,4 +15,4 @@ I’m currently learning Rust 🦀 and also making some experiments on microcont
 
 I enjoy reading technical articles on [daily.dev](https://app.daily.dev/).
 
-<a href="https://app.daily.dev/ludorg"><img src="https://api.daily.dev/devcards/47eb149e48e3461c9e7a2583fbe04ee4.png?r=5zx" width="200" alt="Civodul VERELI's Dev Card"/></a>
+<a href="https://app.daily.dev/ludorg"><img src="https://api.daily.dev/devcards/47eb149e48e3461c9e7a2583fbe04ee4.png?r=5zx" width="300" alt="Civodul VERELI's Dev Card"/></a>
